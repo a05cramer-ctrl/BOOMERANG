@@ -1,0 +1,1 @@
+window.BOOM_CFG = {NAME:"BOOMERANG", TICKER:"BOOMERANG", CA:"", CHAIN:"solana", PAD:"stonkfun", PAIR:"NVDAX", QUOTE_MINT:"Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh", ENGINE:"", X:"", BUY:"", CHART:""};
